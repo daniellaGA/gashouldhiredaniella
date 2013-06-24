@@ -185,8 +185,13 @@ html.title .reveal {
  *********************************************/
 
 #uxdi_student p, #uxdi_student a {
-  font-size: 16px;
-  line-height: 150%;
+  font-size: 14px;
+  line-height: 140%;
+}
+
+#uxdi_student li {
+  font-size: 14px;
+  line-height: 130%;
 }
 
 #precourse-development p, #precourse-development li, #inclass-experience p, #inclass-experience li, #commencement p, #commencement li {
@@ -197,4 +202,8 @@ html.title .reveal {
 #the_dos_and_donts p, #the_dos_and_donts a {
   font-size: 13px;
   line-height: 130%;
+}
+
+#slash {
+  color: #FF0000;
 }
