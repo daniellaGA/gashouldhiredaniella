@@ -184,7 +184,12 @@ html.title .reveal {
  * OTHER
  *********************************************/
 
-#uxdi_student p, #uxdi_student li, #uxdi_student2 p, #uxdi_student2 li {
+#uxdi_student p {
+  font-size: 16px;
+  line-height: 150%;
+}
+
+#precourse-development p, #precourse-development li, #inclass-experience p, #inclass-experience li, #commencement p, #commencement li {
   font-size: 14px;
   line-height: 100%;
 }
