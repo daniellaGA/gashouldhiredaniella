@@ -177,3 +177,14 @@ html.title .reveal {
   -webkit-transition: all 0.25s; }
   html.title .reveal h1, html.title .reveal h2, html.title .reveal h3, html.title .reveal h4, html.title .reveal h5, html.title .reveal h6 {
     color: #fff; }
+
+
+
+/*********************************************
+ * OTHER
+ *********************************************/
+
+#uxdi_student p, #uxdi_student li {
+  font-size: 14px;
+  line-height: 100%;
+}
