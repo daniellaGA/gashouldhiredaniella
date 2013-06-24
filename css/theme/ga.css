@@ -184,7 +184,7 @@ html.title .reveal {
  * OTHER
  *********************************************/
 
-#uxdi_student p, #uxdi_student li {
+#uxdi_student p, #uxdi_student li, #uxdi_student2 p, #uxdi_student2 li {
   font-size: 14px;
   line-height: 100%;
 }
